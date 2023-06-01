@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Imad 
+- 👀 I’m interested in Tech industry
+- 🌱 I am currently a Computer Science & Data science Student
+- 📫 How to reach me -> chakourimad01@gmail.com
